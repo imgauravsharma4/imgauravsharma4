@@ -28,16 +28,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" height="30" alt="nextjs logo"  />
   <img width="12" />
-  <img width="12" />
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30" alt="postgres logo"  /> </a>
   <img width="12" />
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" height="30" alt="mysql logo"  /> </a>
   <img width="12" />
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" height="30" alt="redis logo"  /> </a>
-  <img width="12" />
   <a href="https://graphql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" height="30" alt="graphql logo"  /> </a>
-  <img width="12" />
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" height="30" alt="kubernetes logo" /> </a>
   <img width="12" />
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" alt="amazonwebservices logo" /> </a>
 </div>
